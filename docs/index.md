@@ -6,6 +6,8 @@
 
   <title>Testing</title>
   <meta name="author" content="Zach Low">
+  
+  <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
