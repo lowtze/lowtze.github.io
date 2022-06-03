@@ -1,11 +1,8 @@
 ---
+layout: page
 title: "Easy Latin Plays"
-author: M L Newman
-publisher: G. Bell and Sons, LTD.
-year: 1913
-lang: la
-cover-image: "./images/cover.png"
-version: 1.0
+permalink: https://lowtze.github.io/test
+
 ---
 
 tags: [[Latin Language|Latin]]
